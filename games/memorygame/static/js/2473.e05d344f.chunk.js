@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorygame=self.webpackChunkmemorygame||[]).push([[2473],{2473:(e,m,a)=>{e.exports=a.p+"static/media/do.3998b5289319273cade0.mp3"}}]);

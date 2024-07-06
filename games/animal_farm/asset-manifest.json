@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/games/animal_farm/static/css/main.d08a32e2.css",
+    "main.js": "/games/animal_farm/static/js/main.1367e81d.js",
+    "static/media/front.png": "/games/animal_farm/static/media/front.1748c2c645464e5623df.png",
+    "static/media/goose.webp": "/games/animal_farm/static/media/goose.19beb82685d53d124e87.webp",
+    "static/media/calf.webp": "/games/animal_farm/static/media/calf.f51c9408d5ecdeeb22fa.webp",
+    "static/media/dog.webp": "/games/animal_farm/static/media/dog.a5a2ac65240b91a23362.webp",
+    "static/media/hay.webp": "/games/animal_farm/static/media/hay.377dff0f3ceb02928f6a.webp",
+    "static/media/cow.webp": "/games/animal_farm/static/media/cow.c2b6817fbab9f57f91c3.webp",
+    "static/media/bolt.webp": "/games/animal_farm/static/media/bolt.693de59a03939e8788d9.webp",
+    "static/media/horse2.webp": "/games/animal_farm/static/media/horse2.b21a2f07a521b40ba72e.webp",
+    "static/media/chicken.webp": "/games/animal_farm/static/media/chicken.09e491239153c9a25e34.webp",
+    "static/media/pig.webp": "/games/animal_farm/static/media/pig.8f73f05e42f9e78ac29e.webp",
+    "static/media/sheep2.webp": "/games/animal_farm/static/media/sheep2.965171c0ddcf129bd261.webp",
+    "static/media/sleep_dog.webp": "/games/animal_farm/static/media/sleep_dog.65f3d2185fd5d4a8e7c7.webp",
+    "static/media/goat.webp": "/games/animal_farm/static/media/goat.49418b4855038903789a.webp",
+    "static/media/lamb.webp": "/games/animal_farm/static/media/lamb.0d8f74fbf64adeedb075.webp",
+    "static/media/sheep.webp": "/games/animal_farm/static/media/sheep.936021c5663fcca62e32.webp",
+    "static/media/star.webp": "/games/animal_farm/static/media/star.31c4c5cb5130a685f6cc.webp",
+    "static/media/sound.webp": "/games/animal_farm/static/media/sound.52430b14a4e74fdb7382.webp",
+    "index.html": "/games/animal_farm/index.html",
+    "main.d08a32e2.css.map": "/games/animal_farm/static/css/main.d08a32e2.css.map",
+    "main.1367e81d.js.map": "/games/animal_farm/static/js/main.1367e81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08a32e2.css",
+    "static/js/main.1367e81d.js"
+  ]
+}

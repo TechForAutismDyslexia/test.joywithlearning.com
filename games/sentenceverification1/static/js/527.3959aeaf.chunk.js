@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksentence=self.webpackChunksentence||[]).push([[527],{527:(e,s,c)=>{e.exports=c.p+"static/media/7_b.f5cf11a65ed24627d38a.png"}}]);

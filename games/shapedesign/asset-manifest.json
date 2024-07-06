@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/games/shapedesign/static/css/main.f1652e95.css",
+    "main.js": "/games/shapedesign/static/js/main.ddd746f5.js",
+    "static/js/453.a5a72b74.chunk.js": "/games/shapedesign/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/games/shapedesign/index.html",
+    "main.f1652e95.css.map": "/games/shapedesign/static/css/main.f1652e95.css.map",
+    "main.ddd746f5.js.map": "/games/shapedesign/static/js/main.ddd746f5.js.map",
+    "453.a5a72b74.chunk.js.map": "/games/shapedesign/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1652e95.css",
+    "static/js/main.ddd746f5.js"
+  ]
+}

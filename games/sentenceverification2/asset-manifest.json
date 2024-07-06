@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/games/sentenceverification2/static/css/main.7237b37d.css",
+    "main.js": "/games/sentenceverification2/static/js/main.56b426b7.js",
+    "static/js/990.50f96bb9.chunk.js": "/games/sentenceverification2/static/js/990.50f96bb9.chunk.js",
+    "static/js/35.30335c8a.chunk.js": "/games/sentenceverification2/static/js/35.30335c8a.chunk.js",
+    "static/js/348.aa8e2e86.chunk.js": "/games/sentenceverification2/static/js/348.aa8e2e86.chunk.js",
+    "static/js/585.68ff6dd2.chunk.js": "/games/sentenceverification2/static/js/585.68ff6dd2.chunk.js",
+    "static/js/690.64cc37cb.chunk.js": "/games/sentenceverification2/static/js/690.64cc37cb.chunk.js",
+    "static/js/47.26634b20.chunk.js": "/games/sentenceverification2/static/js/47.26634b20.chunk.js",
+    "static/js/20.726a13d2.chunk.js": "/games/sentenceverification2/static/js/20.726a13d2.chunk.js",
+    "static/js/453.18d15f4f.chunk.js": "/games/sentenceverification2/static/js/453.18d15f4f.chunk.js",
+    "static/media/playIcon.png": "/games/sentenceverification2/static/media/playIcon.d13e4073a62c28e45c2e.png",
+    "static/media/image-4.jpeg": "/games/sentenceverification2/static/media/image-4.5a434c6e23224fa42534.jpeg",
+    "static/media/image-2.jpeg": "/games/sentenceverification2/static/media/image-2.74b9117fee2da81be318.jpeg",
+    "static/media/image-1.jpeg": "/games/sentenceverification2/static/media/image-1.4fba72eb0351b2691aec.jpeg",
+    "static/media/image-6.jpeg": "/games/sentenceverification2/static/media/image-6.744f489170af3d0cf019.jpeg",
+    "static/media/playIconClicked.jpg": "/games/sentenceverification2/static/media/playIconClicked.e4e155bb342a9eb5756f.jpg",
+    "static/media/image-3.jpeg": "/games/sentenceverification2/static/media/image-3.16d4a9dbb32b4f4507b1.jpeg",
+    "static/media/image-5.jpeg": "/games/sentenceverification2/static/media/image-5.85b0f6d082439eecd972.jpeg",
+    "static/media/logo.jpeg": "/games/sentenceverification2/static/media/logo.e3cb2d09f62b0be266b1.jpeg",
+    "index.html": "/games/sentenceverification2/index.html",
+    "main.7237b37d.css.map": "/games/sentenceverification2/static/css/main.7237b37d.css.map",
+    "main.56b426b7.js.map": "/games/sentenceverification2/static/js/main.56b426b7.js.map",
+    "453.18d15f4f.chunk.js.map": "/games/sentenceverification2/static/js/453.18d15f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7237b37d.css",
+    "static/js/main.56b426b7.js"
+  ]
+}

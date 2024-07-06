@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorygame=self.webpackChunkmemorygame||[]).push([[3029],{3029:(e,m,s)=>{e.exports=s.p+"static/media/fell.57902dc99c4ddf459602.mp3"}}]);
