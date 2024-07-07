@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/games/animalfarm/static/css/main.97687547.css",
+    "main.js": "/games/animalfarm/static/js/main.f2479269.js",
+    "static/media/front.webp": "/games/animalfarm/static/media/front.1748c2c645464e5623df.webp",
+    "static/media/goose.webp": "/games/animalfarm/static/media/goose.19beb82685d53d124e87.webp",
+    "static/media/calf.webp": "/games/animalfarm/static/media/calf.f51c9408d5ecdeeb22fa.webp",
+    "static/media/dog.webp": "/games/animalfarm/static/media/dog.a5a2ac65240b91a23362.webp",
+    "static/media/hay.webp": "/games/animalfarm/static/media/hay.377dff0f3ceb02928f6a.webp",
+    "static/media/cow.webp": "/games/animalfarm/static/media/cow.c2b6817fbab9f57f91c3.webp",
+    "static/media/bolt.webp": "/games/animalfarm/static/media/bolt.693de59a03939e8788d9.webp",
+    "static/media/horse2.webp": "/games/animalfarm/static/media/horse2.b21a2f07a521b40ba72e.webp",
+    "static/media/chicken.webp": "/games/animalfarm/static/media/chicken.09e491239153c9a25e34.webp",
+    "static/media/pig.webp": "/games/animalfarm/static/media/pig.8f73f05e42f9e78ac29e.webp",
+    "static/media/sheep2.webp": "/games/animalfarm/static/media/sheep2.965171c0ddcf129bd261.webp",
+    "static/media/sleep_dog.webp": "/games/animalfarm/static/media/sleep_dog.65f3d2185fd5d4a8e7c7.webp",
+    "static/media/goat.webp": "/games/animalfarm/static/media/goat.49418b4855038903789a.webp",
+    "static/media/lamb.webp": "/games/animalfarm/static/media/lamb.0d8f74fbf64adeedb075.webp",
+    "static/media/sheep.webp": "/games/animalfarm/static/media/sheep.936021c5663fcca62e32.webp",
+    "static/media/star.webp": "/games/animalfarm/static/media/star.31c4c5cb5130a685f6cc.webp",
+    "static/media/sound.webp": "/games/animalfarm/static/media/sound.52430b14a4e74fdb7382.webp",
+    "index.html": "/games/animalfarm/index.html",
+    "main.97687547.css.map": "/games/animalfarm/static/css/main.97687547.css.map",
+    "main.f2479269.js.map": "/games/animalfarm/static/js/main.f2479269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97687547.css",
+    "static/js/main.f2479269.js"
+  ]
+}
