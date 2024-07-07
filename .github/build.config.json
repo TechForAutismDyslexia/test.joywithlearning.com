@@ -59,8 +59,8 @@
         "subdomain": "games/sentenceverification1",
         "repolink": "https://github.com/TechForAutismDyslexia/Sentence-Verification-Global"
     },
-    "animal_farm": {
-        "subdomain": "games/animal_farm",
+    "animalfarm": {
+        "subdomain": "games/animalfarm",
         "repolink": "https://github.com/TechForAutismDyslexia/animal_farm"
     }
 }
