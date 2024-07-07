@@ -1,5 +1,7 @@
 name: Build Site
 # run-name: ${{ github.actor }} is learning GitHub Actions
+env:
+  CI: false
 on: 
     workflow_dispatch:
       inputs:
@@ -26,12 +28,19 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fish
       - name: Build Site
-        run: cd .github && ./build.fish ${{inputs.reponame}}
+        run: |
+          CI=false
+          cd .github && ./build.fish ${{inputs.reponame}}
       - name: Push to github pages
         run: |
           git config --global user.name brohithkr
           git config --global user.email brohithkr@gmail.com
           cp -r .github/site/* .
-          git add .
-          git commit -m "site (automated)"
-          git push
+          git status
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add .
+            git commit -m "site (automated)"
+            # git push
+          fi
