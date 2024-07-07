@@ -1,0 +1,66 @@
+{
+    "joiningshapes": {
+        "subdomain": "games/joiningshapes",
+        "repolink": "https://github.com/brohithkr/joining_shapes_game"
+    },
+    "connectingletters": {
+        "subdomain": "games/connectingletters",
+        "repolink": "https://github.com/TechForAutismDyslexia/ConnectingLetters"
+    },
+    "dragandmatch": {
+        "subdomain": "games/dragandmatch",
+        "repolink": "https://github.com/TechForAutismDyslexia/DragAndMatch"
+    },
+    "reportgen": {
+        "subdomain": "reportgen",
+        "repolink": "https://github.com/TechForAutismDyslexia/medical-report-gen"
+    },
+    "adminportal": {
+        "subdomain": "games/adminportal",
+        "repolink": "https://github.com/TechForAutismDyslexia/frontend"
+    },
+    "memorygame": {
+        "subdomain": "games/memorygame",
+        "repolink": "https://github.com/TechForAutismDyslexia/MemoryGame"
+    },
+    "shadowmatching": {
+        "subdomain": "games/shadowmatching",
+        "repolink": "https://github.com/TechForAutismDyslexia/MemoryGame"
+    },
+    "sentenceverification2": {
+        "subdomain": "games/sentenceverification2",
+        "repolink": "https://github.com/TechForAutismDyslexia/SentenceVerificationBridging"
+    },
+    "wordsearch": {
+        "subdomain": "games/wordsearch",
+        "repolink": "https://github.com/TechForAutismDyslexia/WordSearching"
+    },
+    "matching": {
+        "subdomain": "games/matching",
+        "repolink": "https://github.com/TechForAutismDyslexia/imagematching"
+    },
+    "wsletters": {
+        "subdomain": "games/wsletters",
+        "repolink": "https://github.com/TechForAutismDyslexia/WindowSequencing-LetterCards"
+    },
+    "animalmatching": {
+        "subdomain": "games/animalmatching",
+        "repolink": "https://github.com/TechForAutismDyslexia/animal-joining-game"
+    },
+    "tabledraganddrop": {
+        "subdomain": "games/tabledraganddrop",
+        "repolink": "https://github.com/TechForAutismDyslexia/tabledraganddrop"
+    },
+    "shapedesign": {
+        "subdomain": "games/shapedesign",
+        "repolink": "https://github.com/TechForAutismDyslexia/Shape-Design"
+    },
+    "sentenceverification1": {
+        "subdomain": "games/sentenceverification1",
+        "repolink": "https://github.com/TechForAutismDyslexia/Sentence-Verification-Global"
+    },
+    "animal_farm": {
+        "subdomain": "games/animal_farm",
+        "repolink": "https://github.com/TechForAutismDyslexia/animal_farm"
+    }
+}
