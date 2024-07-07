@@ -1,14 +1,35 @@
 name: learn-github-actions
 # run-name: ${{ github.actor }} is learning GitHub Actions
-on: [push]
+on: 
+    workflow_dispatch:
+      inputs:
+        reponame:
+          description: 'Subroute of repo to build'
+          required: false
+          default: 'all'
+          type: string
+          
+
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - run: npm install -g bats
-      - run: bats -v
-      - run: ls
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Bun
+        run: |
+          curl -fsSL https://bun.sh/install | bash
+          echo "$HOME/.bun/bin" >> $GITHUB_PATH
+      - name: Install Fish
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fish
+      - name: Build Site
+        run: cd .github && ./build.fish ${{inputs.reponame}}
+      - name: Push to github pages
+        run: |
+          cp -r .github/site/* .
+          git add .
+          git commit -m site auto
+          git push
