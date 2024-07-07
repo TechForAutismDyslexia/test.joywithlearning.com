@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PATOKEN }}
       - name: Install Bun
         run: |
           curl -fsSL https://bun.sh/install | bash
@@ -34,10 +36,9 @@ jobs:
       - name: Push to github pages
         run: |
           git config --global user.name brohithkr
-          git config --global user.email brohithkr@gmail.com
+          git config --global user.email  "71490015+brohithkr@users.noreply.github.com"
           cp -r .github/site/* .
           git status
           git add .
           git commit -m "site (automated)"
-          git remote set-url origin https://x-access-token:${{ secrets.PATOKEN }}@github.com/TechForAutismDyslexia/techforautismdyslexia.github.io.git
           git push          
