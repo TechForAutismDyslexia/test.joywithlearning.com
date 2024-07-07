@@ -29,7 +29,9 @@ jobs:
         run: cd .github && ./build.fish ${{inputs.reponame}}
       - name: Push to github pages
         run: |
+          git config --global user.name ${{secrets.username}} 
+          git config --global user.email ${{secrets.email}}
           cp -r .github/site/* .
           git add .
-          git commit -m site
+          git commit -m "site (automated)"
           git push
