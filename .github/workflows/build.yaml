@@ -12,7 +12,7 @@ on:
 
 
 jobs:
-  check-bats-version:
+  build-repo:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -31,5 +31,5 @@ jobs:
         run: |
           cp -r .github/site/* .
           git add .
-          git commit -m site auto
+          git commit -m site
           git push
