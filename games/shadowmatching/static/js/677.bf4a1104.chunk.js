@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[677],{677:(a,c,i)=>{a.exports=i.p+"static/media/guitarshadow.fc2b663c1c04c8407833.png"}}]);

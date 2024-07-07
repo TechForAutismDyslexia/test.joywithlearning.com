@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorygame=self.webpackChunkmemorygame||[]).push([[3405],{3405:(e,m,s)=>{e.exports=s.p+"static/media/sink.17c58307b4dd41ce389f.mp3"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[80],{80:(e,a,s)=>{e.exports=s.p+"static/media/jarshadow.411148333c6ee1d8553b.png"}}]);

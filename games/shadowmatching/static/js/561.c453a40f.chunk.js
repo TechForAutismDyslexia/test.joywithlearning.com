@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[561],{561:(a,e,b)=>{a.exports=b.p+"static/media/boat.8fcb8be76babc49c0370.png"}}]);

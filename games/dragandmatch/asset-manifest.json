@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/games/dragandmatch/static/css/main.11fa0a09.css",
-    "main.js": "/games/dragandmatch/static/js/main.ad55d6fa.js",
+    "main.js": "/games/dragandmatch/static/js/main.5762a1a4.js",
     "static/js/89.32b2a18d.chunk.js": "/games/dragandmatch/static/js/89.32b2a18d.chunk.js",
     "static/js/122.f1d44675.chunk.js": "/games/dragandmatch/static/js/122.f1d44675.chunk.js",
     "static/js/947.06ca1e5f.chunk.js": "/games/dragandmatch/static/js/947.06ca1e5f.chunk.js",
@@ -26,11 +26,11 @@
     "static/media/playaudio.svg": "/games/dragandmatch/static/media/playaudio.fe437e7b5563a3a2599987e96062bc6b.svg",
     "index.html": "/games/dragandmatch/index.html",
     "main.11fa0a09.css.map": "/games/dragandmatch/static/css/main.11fa0a09.css.map",
-    "main.ad55d6fa.js.map": "/games/dragandmatch/static/js/main.ad55d6fa.js.map",
+    "main.5762a1a4.js.map": "/games/dragandmatch/static/js/main.5762a1a4.js.map",
     "453.7b0462eb.chunk.js.map": "/games/dragandmatch/static/js/453.7b0462eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11fa0a09.css",
-    "static/js/main.ad55d6fa.js"
+    "static/js/main.5762a1a4.js"
   ]
 }

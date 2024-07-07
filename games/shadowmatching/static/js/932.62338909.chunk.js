@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[932],{932:(e,n,a)=>{e.exports=a.p+"static/media/snowman.abe6ef607f4dcdef70ce.png"}}]);

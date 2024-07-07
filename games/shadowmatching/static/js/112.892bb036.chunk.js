@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[112],{112:(e,a,s)=>{e.exports=s.p+"static/media/towershadow.a5c293856eb85274c4bc.png"}}]);

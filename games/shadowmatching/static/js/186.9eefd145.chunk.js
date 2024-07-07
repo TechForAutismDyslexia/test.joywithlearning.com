@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[186],{186:(e,s,i)=>{e.exports=i.p+"static/media/shoe.7269302bb44c50e39905.png"}}]);

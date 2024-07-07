@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkimdndmain=self.webpackChunkimdndmain||[]).push([[96],{96:(a,n,s)=>{a.exports=s.p+"static/media/snowmanshadow.8c6aab99962a9f0ae1cc.png"}}]);

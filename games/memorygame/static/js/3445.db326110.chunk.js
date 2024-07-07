@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorygame=self.webpackChunkmemorygame||[]).push([[3445],{3445:(e,a,m)=>{e.exports=m.p+"static/media/brook.aa0891caf381397976e8.mp3"}}]);
