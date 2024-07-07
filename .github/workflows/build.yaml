@@ -39,4 +39,5 @@ jobs:
           git status
           git add .
           git commit -m "site (automated)"
+          git remote set-url origin https://x-access-token:${{ secrets.PATOKEN }}@github.com/TechForAutismDyslexia/techforautismdyslexia.github.io.git
           git push          
