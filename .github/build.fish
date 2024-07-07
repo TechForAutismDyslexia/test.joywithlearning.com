@@ -2,10 +2,16 @@
 set filename build.config.json
 
 function buildRepo
+
+    set name (basename $argv[1])
+    set subdomain (jq -r ".[\"$name\"].subdomain" $filename)
+    set repolink (jq -r ".[\"$name\"].repolink" $filename)
+    set repodir ./buildfiles/$name
+
     if test ! -e site
         mkdir site
     else
-        rm -rf ./site/$argv[1]
+        rm -rf ./site/$subdomain
     end
     if test ! -e buildfiles
         mkdir buildfiles
@@ -13,10 +19,7 @@ function buildRepo
         rm -rf ./buildfiles/*
     end
 
-    set name (basename $argv[1])
-    set subdomain (jq -r ".[\"$name\"].subdomain" $filename)
-    set repolink (jq -r ".[\"$name\"].repolink" $filename)
-    set repodir ./buildfiles/$name
+    
     # if "$subdomain" = "/" 
     #     set repodir "./buildfiles/root"
     # end

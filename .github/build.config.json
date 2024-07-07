@@ -62,5 +62,9 @@
     "animalfarm": {
         "subdomain": "games/animalfarm",
         "repolink": "https://github.com/TechForAutismDyslexia/animal_farm"
+    },
+    "root": {
+        "subdomain": "/",
+        "repolink": "https://github.com/salonisharma9700/joywithlearning_v2"
     }
 }
