@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.47b7d67c.css",
-    "main.js": "/static/js/main.ac3713ee.js",
+    "main.css": "/static/css/main.9cc2ce26.css",
+    "main.js": "/static/js/main.57bf63d5.js",
     "static/media/OpenDyslexic-Bold.otf": "/static/media/OpenDyslexic-Bold.1082cfdbbc04743cc3f1.otf",
     "index.html": "/index.html",
-    "main.47b7d67c.css.map": "/static/css/main.47b7d67c.css.map",
-    "main.ac3713ee.js.map": "/static/js/main.ac3713ee.js.map"
+    "main.9cc2ce26.css.map": "/static/css/main.9cc2ce26.css.map",
+    "main.57bf63d5.js.map": "/static/js/main.57bf63d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.47b7d67c.css",
-    "static/js/main.ac3713ee.js"
+    "static/css/main.9cc2ce26.css",
+    "static/js/main.57bf63d5.js"
   ]
 }

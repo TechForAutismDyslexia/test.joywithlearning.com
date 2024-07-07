@@ -39,4 +39,4 @@ jobs:
           git status
           git add .
           git commit -m "site (automated)"
-          git push
+          git push          
