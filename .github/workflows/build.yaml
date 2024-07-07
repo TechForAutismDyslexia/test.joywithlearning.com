@@ -8,7 +8,7 @@ on:
         reponame:
           description: 'Subroute of repo to build'
           required: false
-          default: 'animalfarm'
+          default: 'all'
           type: string
           
 
