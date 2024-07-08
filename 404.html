@@ -26,7 +26,7 @@
 
       var l = window.location;
 
-      var routes = l.split("/")
+      var routes = l.toString().split("/")
       if(routes.length > 1){
         if(routes[1] == "games"){
           pathSegmentsToKeep = 2
