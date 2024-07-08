@@ -27,10 +27,8 @@
       var l = window.location;
 
       var routes = l.toString().split("/")
-      if(routes.length > 1){
-        if(routes[1] == "games"){
-          pathSegmentsToKeep = 2
-        }
+      if(l.pathname.startsWith("/games")){
+        pathSegmentsToKeep = 2;
       }
       l.replace(
         l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
