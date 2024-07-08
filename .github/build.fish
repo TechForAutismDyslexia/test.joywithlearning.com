@@ -60,3 +60,4 @@ if test "$argv[1]" = "all"
 else
     buildRepo "$argv[1]"
 end
+
