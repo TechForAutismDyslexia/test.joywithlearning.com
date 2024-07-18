@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/games/connectingletters/static/css/main.36c89565.css",
-    "main.js": "/games/connectingletters/static/js/main.893a4db3.js",
-    "static/js/991.619c430d.chunk.js": "/games/connectingletters/static/js/991.619c430d.chunk.js",
+    "main.js": "/games/connectingletters/static/js/main.2d5e7cf4.js",
+    "static/js/991.d2251a6a.chunk.js": "/games/connectingletters/static/js/991.d2251a6a.chunk.js",
     "static/js/929.947d6fb6.chunk.js": "/games/connectingletters/static/js/929.947d6fb6.chunk.js",
     "static/js/258.d2db6c1f.chunk.js": "/games/connectingletters/static/js/258.d2db6c1f.chunk.js",
     "static/js/627.f34adba1.chunk.js": "/games/connectingletters/static/js/627.f34adba1.chunk.js",
@@ -42,9 +42,9 @@
     "static/js/372.1656dc7a.chunk.js": "/games/connectingletters/static/js/372.1656dc7a.chunk.js",
     "static/js/879.f603d574.chunk.js": "/games/connectingletters/static/js/879.f603d574.chunk.js",
     "static/js/594.8cb30e9e.chunk.js": "/games/connectingletters/static/js/594.8cb30e9e.chunk.js",
-    "static/js/83.7a7a2033.chunk.js": "/games/connectingletters/static/js/83.7a7a2033.chunk.js",
-    "static/js/40.91df42fa.chunk.js": "/games/connectingletters/static/js/40.91df42fa.chunk.js",
-    "static/js/255.ba50cd70.chunk.js": "/games/connectingletters/static/js/255.ba50cd70.chunk.js",
+    "static/js/83.dec269e0.chunk.js": "/games/connectingletters/static/js/83.dec269e0.chunk.js",
+    "static/js/40.02881af8.chunk.js": "/games/connectingletters/static/js/40.02881af8.chunk.js",
+    "static/js/255.53a60c44.chunk.js": "/games/connectingletters/static/js/255.53a60c44.chunk.js",
     "static/media/item2.jpg": "/games/connectingletters/static/media/item2.b71d93ae5340dc820bd8.jpg",
     "static/media/item4.jpg": "/games/connectingletters/static/media/item4.0c7cd209f51426a13b01.jpg",
     "static/media/item9.jpg": "/games/connectingletters/static/media/item9.ad7417ed4c5265b91663.jpg",
@@ -60,16 +60,16 @@
     "static/media/L1img.jpg": "/games/connectingletters/static/media/L1img.6954e6c29ea687e7a19b.jpg",
     "index.html": "/games/connectingletters/index.html",
     "main.36c89565.css.map": "/games/connectingletters/static/css/main.36c89565.css.map",
-    "main.893a4db3.js.map": "/games/connectingletters/static/js/main.893a4db3.js.map",
-    "991.619c430d.chunk.js.map": "/games/connectingletters/static/js/991.619c430d.chunk.js.map",
+    "main.2d5e7cf4.js.map": "/games/connectingletters/static/js/main.2d5e7cf4.js.map",
+    "991.d2251a6a.chunk.js.map": "/games/connectingletters/static/js/991.d2251a6a.chunk.js.map",
     "258.d2db6c1f.chunk.js.map": "/games/connectingletters/static/js/258.d2db6c1f.chunk.js.map",
     "627.f34adba1.chunk.js.map": "/games/connectingletters/static/js/627.f34adba1.chunk.js.map",
-    "83.7a7a2033.chunk.js.map": "/games/connectingletters/static/js/83.7a7a2033.chunk.js.map",
-    "40.91df42fa.chunk.js.map": "/games/connectingletters/static/js/40.91df42fa.chunk.js.map",
-    "255.ba50cd70.chunk.js.map": "/games/connectingletters/static/js/255.ba50cd70.chunk.js.map"
+    "83.dec269e0.chunk.js.map": "/games/connectingletters/static/js/83.dec269e0.chunk.js.map",
+    "40.02881af8.chunk.js.map": "/games/connectingletters/static/js/40.02881af8.chunk.js.map",
+    "255.53a60c44.chunk.js.map": "/games/connectingletters/static/js/255.53a60c44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36c89565.css",
-    "static/js/main.893a4db3.js"
+    "static/js/main.2d5e7cf4.js"
   ]
 }
